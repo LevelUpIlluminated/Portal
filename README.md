@@ -1,3 +1,6 @@
+## About This Project:
+While i was replaying portal and in the end credits song i was Inspired by it to create a project using React as a personal tribute to that memorable moment from the  game, merging my love for coding with my admiration for portal
+
 ## Running React on Replit
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
